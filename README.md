@@ -112,7 +112,7 @@ export default App
 - App.js
   - refactor to <React.Fragment>
   - copy/paste all the content within body tags, up to <script> (index.html)
-  - select all "class" instances and refactor to "className" (CMD + D)
+  - select all "class" instances and refactor to "className" (CTRL + D)
   - fix the comment bug (remove or comment out)
   - don't worry about - Using target="\_blank" without rel="noreferrer" warning,
     will fix it later
